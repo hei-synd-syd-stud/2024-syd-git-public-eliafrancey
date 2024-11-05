@@ -47,3 +47,23 @@ la commande "checkout" permer de pointer sur une branche et d'y faire des modifi
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1.  c'est la branche "develop"
+
+2. identifiant du commit
+
+3. indique que le commit est une fusion de la branche "feature-auth" dans "develop"
+
+4. nom et adresse email de la personne qui a commit
+
+5. indique la version du projet
+
+6. dernier commimt
+
+7. cela indique un commit de fusion
+
+8. c'est le commit main
+
+9. commit ajouté par silvan Zahno et fusionné au main
+
+10. commit initial
